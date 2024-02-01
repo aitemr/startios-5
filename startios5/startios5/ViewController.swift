@@ -16,5 +16,9 @@ final class ViewController: UIViewController {
     private func myFunc() {
         
     }
+    
+    private func myFunc2() {
+        
+    }
 }
 
